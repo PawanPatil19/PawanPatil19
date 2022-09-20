@@ -1,5 +1,6 @@
 ### Hi, I'm Pawan Patil ! 👋<br>
-- 📫 How to reach me: pawanpatil@u.nus.edu
+- Email : pawanpatil@u.nus.edu
+- Telegram : @its_pkp
 
 <!--
 **PawanPatil19/PawanPatil19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
